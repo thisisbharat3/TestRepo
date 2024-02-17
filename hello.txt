@@ -1,2 +1,16 @@
-hello
-hiii
+
+Account ID
+
+277993242094
+
+Copy
+
+IAM user name
+
+pluralsight-9da6877e
+
+Copy
+
+Password
+
+9c0c45a7-496d-44a7-be6a-f8dc35730ec3
